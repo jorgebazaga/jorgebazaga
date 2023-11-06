@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jorge 👨‍💻
-### A passionate frontend developer currently studying at CPIFP Málaga Tech Park
+### A passionate frontend developer currently studying at CPIFP Alan Turing
 - 🌱 I’m currently learning **Java, Bash, Docker, XML, HTML, CSS and JavaScript**
 
 - 💻 All of my projects are available at [jorgebazaga.dev](https://jorgebazaga.dev)
